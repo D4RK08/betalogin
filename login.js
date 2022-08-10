@@ -36,4 +36,8 @@ document.getElementById("Enter").onclick=function (){
         } 
     } 
 }
+
+document.getElementById("New").onclick=function (){
+    window.location = "sigin.html";
+}
        
