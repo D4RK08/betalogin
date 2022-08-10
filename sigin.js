@@ -1,5 +1,6 @@
 document.getElementById("New_account").onclick=function (){
     
+    console.log("nuovoaccount")
     let Username = document.getElementById("Username").value;
     let Password = document.getElementById("Password").value;
     let requestURL = './utenti.json';
