@@ -25,8 +25,6 @@ document.getElementById("New_account").onclick=function (){
         
             utenti.utent[numeroutenti+1].username = Username
             utenti.utent[numeroutenti+1].password = Password
-            
-            window.location = "login.html";
 
             window.location = "index.html";
 
