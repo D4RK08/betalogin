@@ -28,6 +28,8 @@ document.getElementById("New_account").onclick=function (){
             
             window.location = "login.html";
 
+            window.location = "index.html";
+
         }
     }
 }
